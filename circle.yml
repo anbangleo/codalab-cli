@@ -1,8 +1,6 @@
 machine:
   python:
     version: 2.7.11
-  services:
-    - docker
   environment:
     CODALAB_USERNAME: codalab
     CODALAB_PASSWORD: testpassword
